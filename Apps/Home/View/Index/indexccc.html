@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>获取所有服务器</title>
+        <meta charset="UTF-8"/>
+
+    </head>
+    <body>
+            <h1>服务器列表</h1>
+            <volist name="data" id="vo">
+                <div style="text-align: center;float:left;border:1px solid #F00;height:50px;width:200px;margin:2px"  ><a href="__URL__/getLog/id/{$vo.id}">{$vo.id}:{$vo.server_name}</a></div>
+            </volist>
+    </body>
+</html>

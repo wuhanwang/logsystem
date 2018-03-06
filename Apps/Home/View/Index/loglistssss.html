@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>文件列表</title>
+        <meta charset="UTF-8"/>
+    </head>
+    <body>
+    <script src="__PUBLIC__/myadmin/plugins/jQuery/jQuery-2.1.4.min.js"></script>
+        <center>
+            <h1>服务器列表</h1>
+            <volist name="info" id="vo" >
+                <div style="text-align: center;float:left;border:1px solid #F00;height:50px;width:200px;margin:2px">
+                    <a href="__URL__/getLog/id/{$vo.id}">
+                        {$vo.server_name}
+                    </a>
+                </div>
+            </volist>
+        </center>
+    </body>
+</html>

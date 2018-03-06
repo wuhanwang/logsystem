@@ -1,0 +1,483 @@
+[ 2017-11-10T11:17:25+08:00 ] 127.0.0.1 /logsystem/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002408s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000531s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000575s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::ajaxReturn() should be compatible with Think\Controller::ajaxReturn($data, $type = '', $json_option = 0) F:\phpStudy\WWW\logsystem\Apps\Home\Controller\IndexController.class.php 第 109 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001430s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001477s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.020569s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020628s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000311s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000337s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000440s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000467s ]
+
+[ 2017-11-10T11:17:32+08:00 ] 127.0.0.1 /logsystem/index.php/Home/Index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000334s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000447s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000497s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::ajaxReturn() should be compatible with Think\Controller::ajaxReturn($data, $type = '', $json_option = 0) F:\phpStudy\WWW\logsystem\Apps\Home\Controller\IndexController.class.php 第 109 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000031s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000077s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.022422s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.022479s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000271s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000301s ]
+
+[ 2017-11-10T11:19:36+08:00 ] 127.0.0.1 /logsystem/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000372s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000395s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000433s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::ajaxReturn() should be compatible with Think\Controller::ajaxReturn($data, $type = '', $json_option = 0) F:\phpStudy\WWW\logsystem\Apps\Home\Controller\IndexController.class.php 第 109 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000037s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000074s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005379s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005424s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000250s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000274s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000388s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000415s ]
+
+[ 2017-11-10T11:19:40+08:00 ] 127.0.0.1 /logsystem/index.php/Home/Index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000316s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000381s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000419s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::ajaxReturn() should be compatible with Think\Controller::ajaxReturn($data, $type = '', $json_option = 0) F:\phpStudy\WWW\logsystem\Apps\Home\Controller\IndexController.class.php 第 109 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000028s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000060s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005609s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005655s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000224s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000248s ]
+
+[ 2017-11-10T11:41:26+08:00 ] 127.0.0.1 /logsystem/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000343s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000442s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000477s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::ajaxReturn() should be compatible with Think\Controller::ajaxReturn($data, $type = '', $json_option = 0) F:\phpStudy\WWW\logsystem\Apps\Home\Controller\IndexController.class.php 第 108 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000049s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000090s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011853s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011902s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000267s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000293s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000419s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000450s ]
+
+[ 2017-11-10T11:41:30+08:00 ] 127.0.0.1 /logsystem/index.php/Home/Index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000295s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000341s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000374s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::ajaxReturn() should be compatible with Think\Controller::ajaxReturn($data, $type = '', $json_option = 0) F:\phpStudy\WWW\logsystem\Apps\Home\Controller\IndexController.class.php 第 108 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000024s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000049s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005411s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005463s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000206s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000228s ]
+
+[ 2017-11-10T11:45:34+08:00 ] 127.0.0.1 /logsystem/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000325s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000364s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000395s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::ajaxReturn() should be compatible with Think\Controller::ajaxReturn($data, $type = '', $json_option = 0) F:\phpStudy\WWW\logsystem\Apps\Home\Controller\IndexController.class.php 第 127 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000034s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000061s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005224s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005267s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000309s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000336s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000393s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000420s ]
+
+[ 2017-11-10T11:45:37+08:00 ] 127.0.0.1 /logsystem/index.php/Home/Index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000289s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000428s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000462s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::ajaxReturn() should be compatible with Think\Controller::ajaxReturn($data, $type = '', $json_option = 0) F:\phpStudy\WWW\logsystem\Apps\Home\Controller\IndexController.class.php 第 127 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000028s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000070s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005616s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005672s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000255s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000278s ]
+
+[ 2017-11-10T11:48:15+08:00 ] 127.0.0.1 /logsystem/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000317s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000351s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000382s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::ajaxReturn() should be compatible with Think\Controller::ajaxReturn($data, $type = '', $json_option = 0) F:\phpStudy\WWW\logsystem\Apps\Home\Controller\IndexController.class.php 第 127 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000042s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000078s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011299s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011342s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000262s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000284s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000433s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000459s ]
+
+[ 2017-11-10T11:48:20+08:00 ] 127.0.0.1 /logsystem/index.php/Home/Index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000295s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000433s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000471s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::ajaxReturn() should be compatible with Think\Controller::ajaxReturn($data, $type = '', $json_option = 0) F:\phpStudy\WWW\logsystem\Apps\Home\Controller\IndexController.class.php 第 127 行.
+
+[ 2017-11-10T11:50:23+08:00 ] 127.0.0.1 /logsystem/index.php/Home/Index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000337s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000463s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000504s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::ajaxReturn() should be compatible with Think\Controller::ajaxReturn($data, $type = '', $json_option = 0) F:\phpStudy\WWW\logsystem\Apps\Home\Controller\IndexController.class.php 第 128 行.
+
+[ 2017-11-10T11:50:29+08:00 ] 127.0.0.1 /logsystem/index.php/Home/Index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000333s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000339s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000373s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::ajaxReturn() should be compatible with Think\Controller::ajaxReturn($data, $type = '', $json_option = 0) F:\phpStudy\WWW\logsystem\Apps\Home\Controller\IndexController.class.php 第 128 行.
+
+[ 2017-11-10T11:52:58+08:00 ] 127.0.0.1 /logsystem/index.php/Home/Index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000323s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000379s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000414s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::ajaxReturn() should be compatible with Think\Controller::ajaxReturn($data, $type = '', $json_option = 0) F:\phpStudy\WWW\logsystem\Apps\Home\Controller\IndexController.class.php 第 128 行.
+
+[ 2017-11-10T13:07:31+08:00 ] 127.0.0.1 /logsystem/index.php/Home/Index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000339s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000374s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000405s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::ajaxReturn() should be compatible with Think\Controller::ajaxReturn($data, $type = '', $json_option = 0) F:\phpStudy\WWW\logsystem\Apps\Home\Controller\IndexController.class.php 第 129 行.
+
+[ 2017-11-10T16:04:08+08:00 ] 127.0.0.1 /logsystem/
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000326s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000412s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000445s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::ajaxReturn() should be compatible with Think\Controller::ajaxReturn($data, $type = '', $json_option = 0) F:\phpStudy\WWW\logsystem\Apps\Home\Controller\IndexController.class.php 第 4 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000038s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000065s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011120s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011167s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000312s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000338s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000550s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000577s ]
+
+[ 2017-11-10T16:04:14+08:00 ] 127.0.0.1 /logsystem/index.php/Home/Index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000291s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000354s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000414s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::ajaxReturn() should be compatible with Think\Controller::ajaxReturn($data, $type = '', $json_option = 0) F:\phpStudy\WWW\logsystem\Apps\Home\Controller\IndexController.class.php 第 4 行.
+
+[ 2017-11-10T16:15:59+08:00 ] 127.0.0.1 /logsystem/index.php/Home/Index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000354s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000387s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000421s ]
+
+[ 2017-11-10T16:16:32+08:00 ] 127.0.0.1 /logsystem/index.php/Home/Index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000334s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000382s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000419s ]
+
+[ 2017-11-10T16:17:43+08:00 ] 127.0.0.1 /logsystem/index.php/Home/Index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000339s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000523s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000568s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::ajaxReturn() should be compatible with Think\Controller::ajaxReturn($data, $type = '', $json_option = 0) F:\phpStudy\WWW\logsystem\Apps\Home\Controller\IndexController.class.php 第 4 行.
+
+[ 2017-11-10T16:20:51+08:00 ] 127.0.0.1 /logsystem/index.php/Home/Index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000389s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000413s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000451s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::ajaxReturn() should be compatible with Think\Controller::ajaxReturn($data, $type = '', $json_option = 0) F:\phpStudy\WWW\logsystem\Apps\Home\Controller\IndexController.class.php 第 4 行.
+
+[ 2017-11-10T16:24:59+08:00 ] 127.0.0.1 /logsystem/index.php/Home/Index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000340s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000380s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000414s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::ajaxReturn() should be compatible with Think\Controller::ajaxReturn($data, $type = '', $json_option = 0) F:\phpStudy\WWW\logsystem\Apps\Home\Controller\IndexController.class.php 第 4 行.
+
+[ 2017-11-10T16:27:13+08:00 ] 127.0.0.1 /logsystem/index.php/Home/Index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000331s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000371s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000405s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::ajaxReturn() should be compatible with Think\Controller::ajaxReturn($data, $type = '', $json_option = 0) F:\phpStudy\WWW\logsystem\Apps\Home\Controller\IndexController.class.php 第 4 行.
+
+[ 2017-11-10T16:41:38+08:00 ] 127.0.0.1 /logsystem/index.php/Home/Index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000340s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000348s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000380s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::ajaxReturn() should be compatible with Think\Controller::ajaxReturn($data, $type = '', $json_option = 0) F:\phpStudy\WWW\logsystem\Apps\Home\Controller\IndexController.class.php 第 4 行.
+
+[ 2017-11-10T16:50:46+08:00 ] 127.0.0.1 /logsystem/index.php/Home/Index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000356s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000400s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000436s ]
+
+[ 2017-11-10T16:51:49+08:00 ] 127.0.0.1 /logsystem/index.php/Home/Index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000328s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000369s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000408s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::ajaxReturn() should be compatible with Think\Controller::ajaxReturn($data, $type = '', $json_option = 0) F:\phpStudy\WWW\logsystem\Apps\Home\Controller\IndexController.class.php 第 109 行.
+
+[ 2017-11-10T16:52:21+08:00 ] 127.0.0.1 /logsystem/index.php/Home/Index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000328s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000361s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000394s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::ajaxReturn() should be compatible with Think\Controller::ajaxReturn($data, $type = '', $json_option = 0) F:\phpStudy\WWW\logsystem\Apps\Home\Controller\IndexController.class.php 第 109 行.
+
+[ 2017-11-10T16:55:52+08:00 ] 127.0.0.1 /logsystem/index.php/Home/Index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000365s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000483s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000516s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::ajaxReturn() should be compatible with Think\Controller::ajaxReturn($data, $type = '', $json_option = 0) F:\phpStudy\WWW\logsystem\Apps\Home\Controller\IndexController.class.php 第 109 行.
+
+[ 2017-11-10T17:05:37+08:00 ] 127.0.0.1 /logsystem/index.php/Home/Index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000317s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000641s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000696s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::ajaxReturn() should be compatible with Think\Controller::ajaxReturn($data, $type = '', $json_option = 0) F:\phpStudy\WWW\logsystem\Apps\Home\Controller\IndexController.class.php 第 109 行.
+
+[ 2017-11-10T17:05:45+08:00 ] 127.0.0.1 /logsystem/index.php/Home/Index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000339s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000394s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000434s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::ajaxReturn() should be compatible with Think\Controller::ajaxReturn($data, $type = '', $json_option = 0) F:\phpStudy\WWW\logsystem\Apps\Home\Controller\IndexController.class.php 第 109 行.
+
+[ 2017-11-10T17:05:51+08:00 ] 127.0.0.1 /logsystem/index.php/Home/Index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000292s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000342s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000375s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::ajaxReturn() should be compatible with Think\Controller::ajaxReturn($data, $type = '', $json_option = 0) F:\phpStudy\WWW\logsystem\Apps\Home\Controller\IndexController.class.php 第 109 行.
+
+[ 2017-11-10T17:07:34+08:00 ] 127.0.0.1 /logsystem/index.php/Home/Index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000420s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000354s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000390s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::ajaxReturn() should be compatible with Think\Controller::ajaxReturn($data, $type = '', $json_option = 0) F:\phpStudy\WWW\logsystem\Apps\Home\Controller\IndexController.class.php 第 109 行.
+
+[ 2017-11-10T17:07:38+08:00 ] 127.0.0.1 /logsystem/index.php/Home/Index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000328s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000392s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000426s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::ajaxReturn() should be compatible with Think\Controller::ajaxReturn($data, $type = '', $json_option = 0) F:\phpStudy\WWW\logsystem\Apps\Home\Controller\IndexController.class.php 第 109 行.
+
+[ 2017-11-10T17:07:42+08:00 ] 127.0.0.1 /logsystem/index.php/Home/Index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000317s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000336s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000369s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::ajaxReturn() should be compatible with Think\Controller::ajaxReturn($data, $type = '', $json_option = 0) F:\phpStudy\WWW\logsystem\Apps\Home\Controller\IndexController.class.php 第 109 行.
+
+[ 2017-11-10T17:08:28+08:00 ] 127.0.0.1 /logsystem/index.php/Home/Index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000295s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000342s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000376s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::ajaxReturn() should be compatible with Think\Controller::ajaxReturn($data, $type = '', $json_option = 0) F:\phpStudy\WWW\logsystem\Apps\Home\Controller\IndexController.class.php 第 109 行.
+
+[ 2017-11-10T17:09:08+08:00 ] 127.0.0.1 /logsystem/index.php/Home/Index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000443s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000462s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000508s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::ajaxReturn() should be compatible with Think\Controller::ajaxReturn($data, $type = '', $json_option = 0) F:\phpStudy\WWW\logsystem\Apps\Home\Controller\IndexController.class.php 第 109 行.
+
+[ 2017-11-10T17:31:45+08:00 ] 127.0.0.1 /logsystem/index.php/Home/Index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000009s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000327s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000369s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000401s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::ajaxReturn() should be compatible with Think\Controller::ajaxReturn($data, $type = '', $json_option = 0) F:\phpStudy\WWW\logsystem\Apps\Home\Controller\IndexController.class.php 第 127 行.
+
+[ 2017-11-10T17:32:58+08:00 ] 127.0.0.1 /logsystem/index.php/Home/Index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000330s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000367s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000401s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::ajaxReturn() should be compatible with Think\Controller::ajaxReturn($data, $type = '', $json_option = 0) F:\phpStudy\WWW\logsystem\Apps\Home\Controller\IndexController.class.php 第 127 行.
+
+[ 2017-11-10T17:33:42+08:00 ] 127.0.0.1 /logsystem/index.php/Home/Index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000367s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000402s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000439s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::ajaxReturn() should be compatible with Think\Controller::ajaxReturn($data, $type = '', $json_option = 0) F:\phpStudy\WWW\logsystem\Apps\Home\Controller\IndexController.class.php 第 127 行.
+
+[ 2017-11-10T17:33:47+08:00 ] 127.0.0.1 /logsystem/index.php/Home/Index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000010s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000341s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000430s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000472s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::ajaxReturn() should be compatible with Think\Controller::ajaxReturn($data, $type = '', $json_option = 0) F:\phpStudy\WWW\logsystem\Apps\Home\Controller\IndexController.class.php 第 127 行.
+
+[ 2017-11-10T17:34:51+08:00 ] 127.0.0.1 /logsystem/index.php/Home/Index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000011s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000327s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000381s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000416s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::ajaxReturn() should be compatible with Think\Controller::ajaxReturn($data, $type = '', $json_option = 0) F:\phpStudy\WWW\logsystem\Apps\Home\Controller\IndexController.class.php 第 128 行.
+
+[ 2017-11-10T17:45:49+08:00 ] 127.0.0.1 /logsystem/index.php/Home/Index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000641s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000478s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000514s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::ajaxReturn() should be compatible with Think\Controller::ajaxReturn($data, $type = '', $json_option = 0) F:\phpStudy\WWW\logsystem\Apps\Home\Controller\IndexController.class.php 第 128 行.
+
+[ 2017-11-10T17:53:48+08:00 ] 127.0.0.1 /logsystem/index.php/Home/Index/login
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000008s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000340s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000350s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000380s ]
+NOTIC: [2048] Declaration of Home\Controller\IndexController::ajaxReturn() should be compatible with Think\Controller::ajaxReturn($data, $type = '', $json_option = 0) F:\phpStudy\WWW\logsystem\Apps\Home\Controller\IndexController.class.php 第 128 行.
+

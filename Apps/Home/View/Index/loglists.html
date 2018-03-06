@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="zh-cn">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>main</title>
+
+    <!-- Bootstrap -->
+    <link href="__PUBLIC__/logtemplate/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <!-- <link rel="stylesheet" type="text/css" href="__PUBLIC__/logtemplate/css/index.css"> -->
+    <link rel="stylesheet" type="text/css" href="__PUBLIC__/logtemplate/css/rightmain.css">
+  </head>
+  <body>
+    <div class="container">
+      <div class="row">
+        <volist name="info" id="vo">
+            <div class="col-lg-3 col-md-4 col-sm-6 illu" style="height:100px;">
+                <dl>
+                    <dt>{$vo.server_name}</dt>
+                    <dd>
+                        <ul>
+                            <li><a href="__URL__/getLog/id/{$vo.id}">获取日志文件列表</a></li>
+                        </ul>
+                    </dd>
+                </dl> 
+            </div>
+        </volist>
+      </div>
+      <!-- 第一行结束 -->
+
+    </div>
+    <!-- 整个容器结束 -->
+    <script src="__PUBLIC__/logtemplate/public/js/jquery-3.1.1.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="__PUBLIC__/logtemplate/bootstrap/js/bootstrap.min.js"></script>
+    <script type="text/javascript">
+      //alert($)
+    </script>
+  </body>
+</html>

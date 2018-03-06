@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="zh-cn">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>栏目管理</title>
+
+    <!-- Bootstrap -->
+    <link href="__PUBLIC__/logtemplate/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <!-- <link rel="stylesheet" type="text/css" href="css/index.css"> -->
+    <link rel="stylesheet" type="text/css" href="__PUBLIC__/logtemplate/css/rightmain.css">
+  </head>
+  <body>
+      <div class="iframecontent">
+        <div class="pos">
+         <i class="icoh"></i>
+          <span>栏目列表</span>
+        </div>
+        <div class="operate">
+          <div class="pull-left">
+            <input type="button" name="" value="添加栏目" class="btn  btn-success">
+            <input type="button" name="" value="更新排序" class="btn btn-danger">
+          </div>
+          <!-- operate标题结束 -->
+          <div class="list">
+            <div class="tablewrap">
+              <table class="table" width="100%" id="datalist">
+                <thead>
+                  <tr>
+                    
+                    <th>编号</th>
+                    <th>服务器名称</th>
+                    <th>服务器账号</th>
+                    <th>服务器地址</th>
+                    <th>服务器路径</th>
+                    <th>服务器环境</th>
+                    <th>操作</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <volist name="info" id="vo">
+                    <tr>
+                      <form method="post" action="__URL__/update">
+                        <td><input type="" name="id" value="{$vo.id}"></td>
+                        <td><input type="" name="server_name" value="{$vo.server_name}"></td>
+                        <td><input type="" name="server_account" value="{$vo.server_account}"></td>
+                        <td><input type="" name="server_url" value="{$vo.server_url}"></td>
+                        <td><input type="" name="log_path" value="{$vo.log_path}"></td>
+                        <td><input type="" readonly name="pid" value="{$vo.pid}"></td>
+                        <td>
+                          <input type="submit" value="修改">
+                          <a href="__ROOT__/index.php/Home/Index/getLog/id/{$vo.id}">查看文件</a>
+                          <a href="__URL__/delServer/id/{$vo.id}">删除</a>
+                        </td>
+                      </form>
+                    </tr>
+                  </volist>
+                </tbody>
+              </table>
+            </div>
+            <div class="page">{$page}</div>
+          </div>
+        </div>
+      </div>
+      <script src="__PUBLIC__/logtemplate/public/js/jquery-3.1.1.js"></script>
+      <!-- Include all compiled plugins (below), or include individual files as needed -->
+      <script src="__PUBLIC__/logtemplate/bootstrap/js/bootstrap.min.js"></script>
+  </body>
+</html>
